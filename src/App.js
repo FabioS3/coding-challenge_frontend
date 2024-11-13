@@ -1,10 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-import Main from './components/main/main.tsx';
+import logo from "./logo.svg";
+import "./App.css";
+import Main from "./components/main/main.tsx";
 function App() {
-  return (
-   <Main/>
-  );
+  return <Main />;
 }
 
 export default App;
